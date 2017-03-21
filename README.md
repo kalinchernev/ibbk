@@ -3,7 +3,7 @@
 
 ## Накратко
 
-Сейвната първа версия на български превод на творческо видео.
+Сейвната първа версия на английски превод на творческо видео.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LRDZOGooXnk"
 target="_blank"><img src="http://img.youtube.com/vi/LRDZOGooXnk/0.jpg" 
